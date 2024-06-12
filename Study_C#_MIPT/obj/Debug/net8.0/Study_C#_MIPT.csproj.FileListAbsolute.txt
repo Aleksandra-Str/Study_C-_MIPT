@@ -1,0 +1,14 @@
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\bin\Debug\net8.0\Study_C#_MIPT.exe
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\bin\Debug\net8.0\Study_C#_MIPT.deps.json
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\bin\Debug\net8.0\Study_C#_MIPT.runtimeconfig.json
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\bin\Debug\net8.0\Study_C#_MIPT.dll
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\bin\Debug\net8.0\Study_C#_MIPT.pdb
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\Study_C#_MIPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\Study_C#_MIPT.AssemblyInfoInputs.cache
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\Study_C#_MIPT.AssemblyInfo.cs
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\Study_C#_MIPT.csproj.CoreCompileInputs.cache
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\Study_C#_MIPT.dll
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\refint\Study_C#_MIPT.dll
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\Study_C#_MIPT.pdb
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\Study_C#_MIPT.genruntimeconfig.cache
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\ref\Study_C#_MIPT.dll
