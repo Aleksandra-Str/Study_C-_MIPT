@@ -12,3 +12,4 @@ D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\refint\Study_C#_
 D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\Study_C#_MIPT.pdb
 D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\Study_C#_MIPT.genruntimeconfig.cache
 D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\ref\Study_C#_MIPT.dll
+D:\Aleksandra\MIPT\Study_C#_MIPT\Study_C#_MIPT\obj\Debug\net8.0\Study_C#_MIPT.sourcelink.json
