@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Study_C#_MIPT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32e42d8b3e4d99a72e9e7aa14f7818d959bbfbd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25373096ba05789336ec53a98f318bc16dce6227")]
 [assembly: System.Reflection.AssemblyProductAttribute("Study_C#_MIPT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Study_C#_MIPT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
