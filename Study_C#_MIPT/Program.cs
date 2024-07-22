@@ -7,31 +7,57 @@ namespace Study_C__MIPT
         static void Main(string[] args)
         {
 
-            Animal[] animals = new Animal[2] { new Cat(5), new Dog(6) };
-            animals[0].SetName("Крыльчатка");
-            animals[1].SetName("Этажерка");
+            //Animal[] animals = new Animal[2] { new Cat(5), new Dog(6) };
+            //animals[0].SetName("Крыльчатка");
+            //animals[1].SetName("Этажерка");
 
-            Console.WriteLine(animals[0].Name);
-            Test(animals[0]);
+            //Console.WriteLine(animals[0].Name);
+            //Test(animals[0]);
 
 
-            Console.WriteLine(animals[1].Name);
-            Test(animals[1]);
+            //Console.WriteLine(animals[1].Name);
+            //Test(animals[1]);
+
+            FactoryAF factoryAF = new FactoryAF();
+
+            for (int i = 0; i < 10; i++)
+            {
+                factoryAF.AddCar();
+                
+            }
+
+           
+
+            for (int i = 0; i < 9; i++)
+            {                
+                factoryAF.AddCustomer(new Customer(i.ToString()));
+            }
+
+
+
+            factoryAF.WriteInfo();
+
+            factoryAF.SaleCar();
+
+            Console.WriteLine();
+
+            factoryAF.WriteInfo();
+
 
 
         }
 
 
-         static void Test(Animal pet)
-          {
-            Random rnd = new Random();
-            for (int i = 0; i < 10; i++)
-            {
-                pet.Feed(rnd.Next(1, 60));
-                pet.Punish(rnd.Next(1, 20));
-            }
-            pet.ShowHealth();
-          }
+         //static void Test(Animal pet)
+         // {
+         //   Random rnd = new Random();
+         //   for (int i = 0; i < 10; i++)
+         //   {
+         //       pet.Feed(rnd.Next(1, 60));
+         //       pet.Punish(rnd.Next(1, 20));
+         //   }
+         //   pet.ShowHealth();
+         // }
 
     }
 
