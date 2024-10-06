@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.Design;
+using System.Runtime.Serialization.Formatters;
 
 namespace Study_C__MIPT
 {
@@ -6,6 +7,46 @@ namespace Study_C__MIPT
     {
         static void Main(string[] args)
         {
+
+
+            //Monkey[] monkeys = new Monkey[12];
+            
+            int a = 10;
+
+            // Console.WriteLine(a);
+
+            //for (int i = 0; i < monkeys.Length; i++)
+            //{
+            //    monkeys[i] = new Monkey(i, i - 3);
+            //}
+
+            
+            Vetclinic vetclinic = new Vetclinic();
+            Manager manager = new Manager(vetclinic);
+
+            //foreach (Monkey monkey in monkeys)
+            //{
+            //    vetclinic.AddAnimal(monkey);
+            //}
+
+
+            Monkey monkey = new Monkey(1, 6);
+
+            vetclinic.AddAnimal(monkey);
+
+            monkey.Health = -5;
+            Console.WriteLine("monkey 7 = " + monkey.Health);
+            vetclinic.RemoveAnimal(monkey);
+
+            monkey.Health = -3;
+
+
+            Console.WriteLine("monkey 7 = " + monkey.Health);
+                
+
+            // Console.WriteLine(monkeys[0].Health);
+
+
 
             //Animal[] animals = new Animal[2] { new Cat(5), new Dog(6) };
             //animals[0].SetName("Крыльчатка");
@@ -18,30 +59,32 @@ namespace Study_C__MIPT
             //Console.WriteLine(animals[1].Name);
             //Test(animals[1]);
 
-            FactoryAF factoryAF = new FactoryAF();
+            //FactoryAF factoryAF = new FactoryAF();
 
-            for (int i = 0; i < 10; i++)
-            {
-                factoryAF.AddCar();
-                
-            }
+            //for (int i = 0; i < 10; i++)
+            //{
+            //    factoryAF.AddCar();
 
-           
-
-            for (int i = 0; i < 9; i++)
-            {                
-                factoryAF.AddCustomer(new Customer(i.ToString()));
-            }
+            //}
 
 
+            //for (int i = 0; i < 9; i++)
+            //{                
+            //    factoryAF.AddCustomer(new Customer(i.ToString()));
+            //}
 
-            factoryAF.WriteInfo();
 
-            factoryAF.SaleCar();
+            //factoryAF.WriteInfo();
 
-            Console.WriteLine();
+            //factoryAF.SaleCar();
 
-            factoryAF.WriteInfo();
+            //Console.WriteLine();
+
+            //factoryAF.WriteInfo();
+
+
+
+
 
 
 

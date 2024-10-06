@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Study_C__MIPT
 {
 
-   abstract class Animal
+   abstract class OldAnimal
     {
         
         public string Name { get; private set; } = string.Empty; // свойство
@@ -15,7 +15,7 @@ namespace Study_C__MIPT
 
         private int health; //поле
 
-        public Animal(int age)
+        public OldAnimal(int age)
         {
             Age = age;
             health = 90;
@@ -34,11 +34,12 @@ namespace Study_C__MIPT
             health -= punchCount;
         }
 
-        public virtual void Say() 
+        public virtual void Say()
         {
             Console.WriteLine($"Name: {Name}\nAge: {Age}\n");
-            
+
         }
+
 
 
         public void SetName(string newName)
@@ -67,14 +68,14 @@ namespace Study_C__MIPT
     }
 
 
-    class Cat : Animal 
+    class Cat : OldAnimal 
     {
         public Cat(int age):base(age)
         {
           
 
         }
-        public override void Say() 
+        public override void Say() // перегрузка, дополняет старый метод еще каким нибудь методом
         {
           base.Say();
             Console.WriteLine("Мяу");
@@ -84,7 +85,7 @@ namespace Study_C__MIPT
 
     }
 
-    class Dog : Animal
+    class Dog : OldAnimal
     {
         public Dog(int age) : base(age)
         {
