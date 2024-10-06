@@ -3775,11 +3775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aleksandra\\MIPT\\WinFormsApp6\\Model\\Model.csproj",
+      "projectUniqueName": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "D:\\Aleksandra\\MIPT\\WinFormsApp6\\Model\\Model.csproj",
+      "projectPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-      "outputPath": "D:\\Aleksandra\\MIPT\\WinFormsApp6\\Model\\obj\\",
+      "outputPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",

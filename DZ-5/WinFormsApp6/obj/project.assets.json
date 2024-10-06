@@ -4555,11 +4555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aleksandra\\MIPT\\WinFormsApp6\\WinFormsApp6\\WinFormsApp6.csproj",
+      "projectUniqueName": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\WinFormsApp6\\WinFormsApp6.csproj",
       "projectName": "WinFormsApp6",
-      "projectPath": "D:\\Aleksandra\\MIPT\\WinFormsApp6\\WinFormsApp6\\WinFormsApp6.csproj",
+      "projectPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\WinFormsApp6\\WinFormsApp6.csproj",
       "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-      "outputPath": "D:\\Aleksandra\\MIPT\\WinFormsApp6\\WinFormsApp6\\obj\\",
+      "outputPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\WinFormsApp6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4576,14 +4576,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Aleksandra\\MIPT\\WinFormsApp6\\Model\\Model.csproj": {
-              "projectPath": "D:\\Aleksandra\\MIPT\\WinFormsApp6\\Model\\Model.csproj"
+            "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Model\\Model.csproj": {
+              "projectPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Model\\Model.csproj"
             },
-            "D:\\Aleksandra\\MIPT\\WinFormsApp6\\Presenter\\Presenter.csproj": {
-              "projectPath": "D:\\Aleksandra\\MIPT\\WinFormsApp6\\Presenter\\Presenter.csproj"
+            "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Presenter\\Presenter.csproj": {
+              "projectPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Presenter\\Presenter.csproj"
             },
-            "D:\\Aleksandra\\MIPT\\WinFormsApp6\\Shared\\Shared.csproj": {
-              "projectPath": "D:\\Aleksandra\\MIPT\\WinFormsApp6\\Shared\\Shared.csproj"
+            "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Shared\\Shared.csproj": {
+              "projectPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Shared\\Shared.csproj"
             }
           }
         }

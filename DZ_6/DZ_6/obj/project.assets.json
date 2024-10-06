@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aleksandra\\MIPT\\DZ_6\\DZ_6\\DZ_6.csproj",
+      "projectUniqueName": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ_6\\DZ_6\\DZ_6.csproj",
       "projectName": "DZ_6",
-      "projectPath": "D:\\Aleksandra\\MIPT\\DZ_6\\DZ_6\\DZ_6.csproj",
+      "projectPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ_6\\DZ_6\\DZ_6.csproj",
       "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-      "outputPath": "D:\\Aleksandra\\MIPT\\DZ_6\\DZ_6\\obj\\",
+      "outputPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ_6\\DZ_6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
