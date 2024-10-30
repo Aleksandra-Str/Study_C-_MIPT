@@ -1,0 +1,14 @@
+D:\Aleksandra\MIPT\DZ-7\bin\Debug\net8.0\DZ-7.exe
+D:\Aleksandra\MIPT\DZ-7\bin\Debug\net8.0\DZ-7.deps.json
+D:\Aleksandra\MIPT\DZ-7\bin\Debug\net8.0\DZ-7.runtimeconfig.json
+D:\Aleksandra\MIPT\DZ-7\bin\Debug\net8.0\DZ-7.dll
+D:\Aleksandra\MIPT\DZ-7\bin\Debug\net8.0\DZ-7.pdb
+D:\Aleksandra\MIPT\DZ-7\obj\Debug\net8.0\DZ-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aleksandra\MIPT\DZ-7\obj\Debug\net8.0\DZ-7.AssemblyInfoInputs.cache
+D:\Aleksandra\MIPT\DZ-7\obj\Debug\net8.0\DZ-7.AssemblyInfo.cs
+D:\Aleksandra\MIPT\DZ-7\obj\Debug\net8.0\DZ-7.csproj.CoreCompileInputs.cache
+D:\Aleksandra\MIPT\DZ-7\obj\Debug\net8.0\DZ-7.dll
+D:\Aleksandra\MIPT\DZ-7\obj\Debug\net8.0\refint\DZ-7.dll
+D:\Aleksandra\MIPT\DZ-7\obj\Debug\net8.0\DZ-7.pdb
+D:\Aleksandra\MIPT\DZ-7\obj\Debug\net8.0\DZ-7.genruntimeconfig.cache
+D:\Aleksandra\MIPT\DZ-7\obj\Debug\net8.0\ref\DZ-7.dll
