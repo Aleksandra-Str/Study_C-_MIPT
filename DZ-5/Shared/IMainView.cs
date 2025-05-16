@@ -9,9 +9,9 @@ namespace Shared
         event EventHandler<EmployeeEventArgs> EventDelEmployee;
         event EventHandler EventLoadView;
 
-        void Add(Employee employee);
+        void Add(Entities employee);
         void Run();
-        void Del(Employee employee);
-        void Loud(IList<Employee> employees);
+        void Del(Entities employee);
+        void Loud(IList<Entities> employees);
     }
 }

@@ -9,8 +9,8 @@ namespace Model.BL
 {
     public class EmployeeEventArgs : EventArgs
     {
-        public Employee Employee { get; set; }
-        public EmployeeEventArgs(Employee employee)
+        public Entities Employee { get; set; }
+        public EmployeeEventArgs(Entities employee)
         {
             Employee = employee;
         }
@@ -21,8 +21,8 @@ namespace Model.BL
         event EventHandler<EmployeeEventArgs> EventAddEmployee;
         event EventHandler<EmployeeEventArgs> EventDelEmployee;
 
-        void AddEmployee(Employee employee);
-        void DeleteEmployee(Employee employee); // прототипы - их нужно будет переопределить в наследниках
-        IList<Employee> GetEmployees();
+        void AddEmployee(Entities employee);
+        void DeleteEmployee(Entities employee); // прототипы - их нужно будет переопределить в наследниках
+        IList<Entities> GetEmployees();
     }
 }

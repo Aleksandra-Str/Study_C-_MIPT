@@ -14,19 +14,19 @@ namespace WinFormsApp6
         public event EventHandler<EmployeeEventArgs> EventDelEmployee;
         public event EventHandler EventLoadView;
 
-        public void Add(Employee employee)
+        public void Add(Entities employee)
         {
             listBox1.Items.Add(employee);
         }
 
-        public void Del(Employee employee)
+        public void Del(Entities employee)
         {
             listBox1.Items.Remove(employee);
         }
 
-        public void Loud(IList<Employee> employees)
+        public void Loud(IList<Entities> employees)
         {
-            foreach (Employee employee in employees)
+            foreach (Entities employee in employees)
             {
                 listBox1.Items.Add(employee);
             }
@@ -41,7 +41,7 @@ namespace WinFormsApp6
         {
             EventAddEmployee?.Invoke(this,
                new EmployeeEventArgs(
-                                       new Employee
+                                       new Entities
                                        {
                                            Name = textBox1.Text,
                                            Age = (int)numericUpDown1.Value
@@ -53,7 +53,12 @@ namespace WinFormsApp6
         private void button2_Click(object sender, EventArgs e)
         {
             EventDelEmployee?.Invoke(this,
-              new EmployeeEventArgs(listBox1.SelectedItem as Employee));
+              new EmployeeEventArgs(listBox1.SelectedItem as Entities));
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

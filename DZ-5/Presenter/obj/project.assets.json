@@ -3822,11 +3822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Presenter\\Presenter.csproj",
+      "projectUniqueName": "D:\\Aleksandra\\0_Work\\Projects\\MIPT\\Study_C#_MIPT\\DZ-5\\Presenter\\Presenter.csproj",
       "projectName": "Presenter",
-      "projectPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Presenter\\Presenter.csproj",
+      "projectPath": "D:\\Aleksandra\\0_Work\\Projects\\MIPT\\Study_C#_MIPT\\DZ-5\\Presenter\\Presenter.csproj",
       "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-      "outputPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Presenter\\obj\\",
+      "outputPath": "D:\\Aleksandra\\0_Work\\Projects\\MIPT\\Study_C#_MIPT\\DZ-5\\Presenter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aleksandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3843,11 +3843,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Model\\Model.csproj": {
-              "projectPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Model\\Model.csproj"
+            "D:\\Aleksandra\\0_Work\\Projects\\MIPT\\Study_C#_MIPT\\DZ-5\\Model\\Model.csproj": {
+              "projectPath": "D:\\Aleksandra\\0_Work\\Projects\\MIPT\\Study_C#_MIPT\\DZ-5\\Model\\Model.csproj"
             },
-            "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Shared\\Shared.csproj": {
-              "projectPath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\Shared\\Shared.csproj"
+            "D:\\Aleksandra\\0_Work\\Projects\\MIPT\\Study_C#_MIPT\\DZ-5\\Shared\\Shared.csproj": {
+              "projectPath": "D:\\Aleksandra\\0_Work\\Projects\\MIPT\\Study_C#_MIPT\\DZ-5\\Shared\\Shared.csproj"
             }
           }
         }

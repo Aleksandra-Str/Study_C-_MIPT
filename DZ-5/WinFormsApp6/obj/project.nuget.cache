@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sd1yuRWaFWk=",
+  "dgSpecHash": "PWPtRtuWpJI=",
   "success": true,
-  "projectFilePath": "D:\\Aleksandra\\MIPT\\Study_C#_MIPT\\DZ-5\\WinFormsApp6\\WinFormsApp6.csproj",
+  "projectFilePath": "D:\\Aleksandra\\0_Work\\Projects\\MIPT\\Study_C#_MIPT\\DZ-5\\WinFormsApp6\\WinFormsApp6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandra\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Aleksandra\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

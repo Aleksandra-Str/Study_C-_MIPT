@@ -1,0 +1,17 @@
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\bin\Debug\UniversitySchedule.exe.config
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\bin\Debug\UniversitySchedule.exe
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\bin\Debug\UniversitySchedule.pdb
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\UniversitySchedule.csproj.AssemblyReference.cache
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\MainWindow.baml
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\MainWindow.g.cs
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\App.g.cs
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\UniversitySchedule_MarkupCompile.cache
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\UniversitySchedule.g.resources
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\UniversitySchedule.Properties.Resources.resources
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\UniversitySchedule.csproj.GenerateResource.cache
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\UniversitySchedule.csproj.CoreCompileInputs.cache
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\UniversitySchedule.exe
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\UniversitySchedule.pdb
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\bin\Debug\Newtonsoft.Json.dll
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\bin\Debug\Newtonsoft.Json.xml
+D:\Aleksandra\0_Work\Projects\MIPT\UniversitySchedule\obj\Debug\Universi.12FABD1A.Up2Date
